@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS).
 
-- 🌱 I’m currently learning **-----.**
+- 🌱
 
 
 ## 📫 How to reach me:

@@ -20,7 +20,7 @@
   <a href="https://github.com/PMX120202" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-   <a href="https://www.instagram.com/?hl=en" alt="Instagram">
+   <a href="https://www.instagram.com/minhxuan.phan/?hl=en" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a> 
   

@@ -8,7 +8,7 @@
 - 🌱
 
 
-## 📫 How to reach me:
+## 📫 Contacts:
 
 
 
@@ -54,4 +54,12 @@
     </td>
   </tr>
 </table>
+
+# Certificates:
+<p align="center">
+  <a href="https://https://www.coursera.org/account/accomplishments/certificate/DQ6XRNNJUX7P">
+    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
+  </a>
+</p>
+
 

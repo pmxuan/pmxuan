@@ -57,9 +57,12 @@
 
 # Certificates:
 <p align="center">
-  <a href="https://https://www.coursera.org/account/accomplishments/certificate/DQ6XRNNJUX7P">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
+
+  <a href="https://www.coursera.org/account/accomplishments/certificate/DQ6XRNNJUX7P">
+    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/z3678790269239_7add34b5383705b402ee007131db3391.jpg" width="px" />
   </a>
+
 </p>
+
 
 

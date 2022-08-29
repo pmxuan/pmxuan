@@ -60,7 +60,9 @@
   <a href="https://www.kaggle.com/learn/certification/xuankun/data-visualization">
     <img alt="Data Visualization" title="Data Visualization" src="certificates/Minh%20Xu%C3%A2n%20Phan%20-%20Data%20Visualization.png" width="400px" />
   </a>
-  
+  <a href="https://www.kaggle.com/learn/certification/xuankun/intro-to-machine-learning">
+    <img alt="Into to Machine Learning" title="Into to Machine Learning" src="certificates/Minh%20Xu%C3%A2n%20Phan%20-%20Intro%20to%20Machine%20Learning.png" width="400px" />
+  </a>
 
 
 </p>

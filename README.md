@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Minh Xuan</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">I am from Vietnam </h3>
-
 
 - ✍ I'm a student of: [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS).
 
-- 🌱
+- 🌱 DA, DS
 
 
 ## 📫 Contacts:

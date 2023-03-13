@@ -67,6 +67,10 @@
   <a href="https://www.coursera.org/account/accomplishments/certificate/DQ6XRNNJUX7P">
     <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/z3678790269239_7add34b5383705b402ee007131db3391.jpg" width="400px" />
   </a>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/D8M962V778MB">
+    <img alt="Intro to Analytic Thinking, Data Science, and Data Mining" title="Intro to Analytic Thinking, Data Science, and Data
+Mining" src="certificates/DataMining.png" width="400px" />
+  </a>
 
 </p>
 

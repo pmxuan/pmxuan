@@ -1,7 +1,7 @@
 
 - ✍ I'm a student of: [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS).
 
-- 🌱 DA, DS
+- 🌱 DA, DE
 
 
 ## 📫 Contacts:
@@ -71,8 +71,17 @@
     <img alt="Intro to Analytic Thinking, Data Science, and Data Mining" title="Intro to Analytic Thinking, Data Science, and Data
 Mining" src="certificates/DataMining.png" width="400px" />
   </a>
+  
+  
 
 </p>
 
 
-
+<p align="center">
+    <a href="https://www.coursera.org/account/accomplishments/certificate/XJFN7C7PAWBN">
+    <img alt="Ask Questions to Make Data-Driven Decisions" title="Ask Questions to Make Data-Driven Decisions" src="https://github.com/PMX120202/PMX120202/blob/main/certificates/Coursera%20XJFN7C7PAWBN.jpg" width="400px" />
+  </a>
+   <a href="https://www.coursera.org/account/accomplishments/certificate/VVZ59BYYX4WB">
+    <img alt="Foundations: Data, Data, Everywhere" title="Foundations: Data, Data, Everywhere" src="https://github.com/PMX120202/PMX120202/blob/main/certificates/Coursera%20VVZ59BYYX4WB.jpg" width="400px" />
+  </a>
+</p>

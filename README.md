@@ -51,37 +51,3 @@
   </tr>
 </table>
 
-# Certificates:
-<p align="center">
-  <a href="https://www.kaggle.com/learn/certification/xuankun/data-visualization">
-    <img alt="Data Visualization" title="Data Visualization" src="certificates/Minh%20Xu%C3%A2n%20Phan%20-%20Data%20Visualization.png" width="400px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/xuankun/intro-to-machine-learning">
-    <img alt="Into to Machine Learning" title="Into to Machine Learning" src="certificates/Minh%20Xu%C3%A2n%20Phan%20-%20Intro%20to%20Machine%20Learning.png" width="400px" />
-  </a>
-
-
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/DQ6XRNNJUX7P">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/z3678790269239_7add34b5383705b402ee007131db3391.jpg" width="400px" />
-  </a>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/D8M962V778MB">
-    <img alt="Intro to Analytic Thinking, Data Science, and Data Mining" title="Intro to Analytic Thinking, Data Science, and Data
-Mining" src="certificates/DataMining.png" width="400px" />
-  </a>
-  
-  
-
-</p>
-
-
-<p align="center">
-    <a href="https://www.coursera.org/account/accomplishments/certificate/XJFN7C7PAWBN">
-    <img alt="Ask Questions to Make Data-Driven Decisions" title="Ask Questions to Make Data-Driven Decisions" src="https://github.com/PMX120202/PMX120202/blob/main/certificates/Coursera%20XJFN7C7PAWBN.jpg" width="400px" />
-  </a>
-   <a href="https://www.coursera.org/account/accomplishments/certificate/VVZ59BYYX4WB">
-    <img alt="Foundations: Data, Data, Everywhere" title="Foundations: Data, Data, Everywhere" src="https://github.com/PMX120202/PMX120202/blob/main/certificates/Coursera%20VVZ59BYYX4WB.jpg" width="400px" />
-  </a>
-</p>

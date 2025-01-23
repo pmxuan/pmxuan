@@ -1,9 +1,9 @@
 
-- ✍ I'm a student of: [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS).
-
-- 🌱 Data Engineer/ Machine Learning Engineer.
-  
-
+- 🎓 Graduated from [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS) with a major in Data Science.
+- 💻 Currently working as a Data Engineer / Machine Learning Engineer.
+- 🌱 Passionate about building scalable data pipelines, deploying machine learning models, and solving challenging problems with AI.
+- 🚀 Open to collaborating on data-driven projects, AI research, and innovative applications.
+- 🔍 Constantly exploring cutting-edge technologies in big data, cloud computing, and deep learning.
 
 
 

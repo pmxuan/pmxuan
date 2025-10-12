@@ -1,5 +1,5 @@
 
-- 🎓 An incoming Master’s student in Information Science at [ Japan Advanced Institute of Science and Technology ](https://www.jaist.ac.jp/english/) (JAIST), with a background in Data Science from [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS)
+- 🎓 I am an Master’s student in Information Science at [ Japan Advanced Institute of Science and Technology ](https://www.jaist.ac.jp/english/) (JAIST), with a background in Data Science from [ University of Sciences](https://www.hcmus.edu.vn/) (HCMUS)
 - 💻 Currently working as a Data Engineer / Machine Learning Engineer.
 - 🌱 Passionate about building scalable data pipelines, deploying machine learning models, and solving challenging problems with AI.
 - 🚀 Open to collaborating on data-driven projects, AI research, and innovative applications.
